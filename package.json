@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Nathan-Cahill/sit725-2021-t2-prac3#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "materialize-css": "^1.0.0-rc.2"
   }
